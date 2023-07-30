@@ -3,7 +3,7 @@
             "name": "zhong guo ren shou",
             "buypoint" : 34, 
             "sellpoint" : 39,
-            "hold_state" : 0
+            "hold_state" : 1
         },
         "601872.SH" : {
             "name": "zhao shang lun chuan",
