@@ -1,8 +1,11 @@
 import tushare as ts
 import json
+import random
 import datetime
+import load
 from mail import *
 # 设置tushare的token，需要先在tushare官网注册并获取
+load.initconfig()
 ftoken = open("token", "r")
 token = ftoken.readline().strip()
 ts.set_token(token)
@@ -24,14 +27,32 @@ today = datetime.datetime.today()
 date_str = today.strftime("%Y%m%d")
 for stock_code, points in json_data.items():
     print("股票代码：", stock_code)
+    name = str(points["name"])
+    df = pro.daily(ts_code=stock_code, start_date=date_str, end_date=date_str)
+    closeprice = float(df.iloc[0][5])
+    #closeprice = random.randint(0,100)
+    json_data[stock_code]["closeprice"] = closeprice
+
+def sort_function(kv_pair):
+    points = kv_pair[1]
+    buypoint = float(points["buypoint"])
+    sellpoint = float(points["sellpoint"])
+    holdstate = int(points["hold_state"])
+    closeprice = float(points["closeprice"])
+    rate = abs(0.5 - ((closeprice-buypoint)/(sellpoint-buypoint)))
+    if holdstate == 1:
+        rate += 10000
+    return -rate
+
+sorted_data = sorted(json_data.items(), key=sort_function)
+
+print(sorted_data)
+for stock_code, points in sorted_data:
+    name = str(points["name"])
     buypoint = float(points["buypoint"])
     sellpoint = float(points["sellpoint"])
     holdstate = str(points["hold_state"])
-    name = str(points["name"])
-    df = pro.daily(ts_code=stock_code, start_date=date_str, end_date=date_str)
-    print(df)
-    closeprice = float(df.iloc[0][5])
-    print(closeprice)
+    closeprice = float(points["closeprice"])
     log += name + "\nhold state:" + holdstate + '\n'
     if(closeprice < buypoint):
         log += stock_code + " should be buy\n"

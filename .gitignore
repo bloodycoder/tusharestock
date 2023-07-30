@@ -1,2 +1,8 @@
 
 .idea/workspace.xml
+config.json
+.idea/modules.xml
+*.iml
+*.xml
+*.pyc
+log.txt
