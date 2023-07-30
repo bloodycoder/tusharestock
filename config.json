@@ -1,38 +1,50 @@
-{  
-        "601628.SH" : {
-            "name": "zhong guo ren shou",
-            "buypoint" : 34, 
-            "sellpoint" : 39,
-            "hold_state" : 1
-        },
-        "601872.SH" : {
-            "name": "zhao shang lun chuan",
-            "buypoint" : 5.71, 
-            "sellpoint" : 7.12,
-            "hold_state" : 0
-        },
-        "601318.SH" : {
-            "name": "zhong guo ping an",
-            "buypoint" : 47.18, 
-            "sellpoint" : 52.5,
-            "hold_state" : 0
-        },
-        "600030.SH" : {
-            "name": "zhong xin zheng quan",
-            "buypoint" : 20.8, 
-            "sellpoint" : 22.11,
-            "hold_state" : 0
-        },
-        "601988.SH" : {
-            "name": "zhong guo yin hang",
-            "buypoint" : 3.08, 
-            "sellpoint" : 4.12,
-            "hold_state" : 0
-        },
-        "600036.SH" : {
-            "name": "zhao shang yin hang",
-            "buypoint" : 34.4, 
-            "sellpoint" : 36.9,
-            "hold_state" : 1
-        }
+{
+   "601166.SH":{
+      "name":"xing ye yin hang",
+      "buypoint":14,
+      "sellpoint":25,
+      "hold_state":0
+   },
+   "000333.SZ":{
+      "name":"mei di ji tuan",
+      "buypoint":47.5,
+      "sellpoint":79.6,
+      "hold_state":0
+   },
+   "601628.SH":{
+      "name":"zhong guo ren shou",
+      "buypoint":34,
+      "sellpoint":39,
+      "hold_state":1
+   },
+   "601872.SH":{
+      "name":"zhao shang lun chuan",
+      "buypoint":5.71,
+      "sellpoint":7.12,
+      "hold_state":0
+   },
+   "601318.SH":{
+      "name":"zhong guo ping an",
+      "buypoint":47.18,
+      "sellpoint":52.5,
+      "hold_state":0
+   },
+   "600030.SH":{
+      "name":"zhong xin zheng quan",
+      "buypoint":20.8,
+      "sellpoint":22.11,
+      "hold_state":0
+   },
+   "601988.SH":{
+      "name":"zhong guo yin hang",
+      "buypoint":3.08,
+      "sellpoint":4.12,
+      "hold_state":0
+   },
+   "600036.SH":{
+      "name":"zhao shang yin hang",
+      "buypoint":34.4,
+      "sellpoint":36.9,
+      "hold_state":1
+   }
 }
