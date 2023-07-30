@@ -28,9 +28,9 @@ date_str = today.strftime("%Y%m%d")
 for stock_code, points in json_data.items():
     print("股票代码：", stock_code)
     name = str(points["name"])
-    df = pro.daily(ts_code=stock_code, start_date=date_str, end_date=date_str)
-    closeprice = float(df.iloc[0][5])
-    #closeprice = random.randint(0,100)
+    #df = pro.daily(ts_code=stock_code, start_date=date_str, end_date=date_str)
+    #closeprice = float(df.iloc[0][5])
+    closeprice = random.randint(0,100)
     json_data[stock_code]["closeprice"] = closeprice
 
 def sort_function(kv_pair):
@@ -53,6 +53,7 @@ for stock_code, points in sorted_data:
     sellpoint = float(points["sellpoint"])
     holdstate = str(points["hold_state"])
     closeprice = float(points["closeprice"])
+    guxirate = 100*(float(points["closeprice"])/float(points["guxi"]))
     log += name + "\nhold state:" + holdstate + '\n'
     if(closeprice < buypoint):
         log += stock_code + " should be buy\n"
@@ -60,6 +61,7 @@ for stock_code, points in sorted_data:
         log += stock_code + " should be sell\n"
     rate = (closeprice-buypoint)/(sellpoint-buypoint)
     log += stock_code + " rate:" + '{:.3f}'.format(rate) + " buypoint:" + str(buypoint) + " sellpoint: " + str(sellpoint) + "\n"
+    log += "guxi rate:" + '{:.3f}'.format(guxirate) + '\n'
     log += "-------------------------\n"
 flog.write(log)
 robot = PicardSendMail()
