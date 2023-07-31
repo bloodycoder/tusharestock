@@ -53,7 +53,7 @@ for stock_code, points in sorted_data:
     sellpoint = float(points["sellpoint"])
     holdstate = str(points["hold_state"])
     closeprice = float(points["closeprice"])
-    guxirate = 100*(float(points["closeprice"])/float(points["guxi"]))
+    guxirate = 100*(float(points["guxi"]/float(points["closeprice"])))
     log += name + "\nhold state:" + holdstate + '\n'
     if(closeprice < buypoint):
         log += stock_code + " should be buy\n"
