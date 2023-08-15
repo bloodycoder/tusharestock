@@ -17,7 +17,7 @@
       "name":"jian she yin hang",
       "buypoint":5.74,
       "sellpoint":6.8,
-      "hold_state":0,
+      "hold_state":1,
       "guxi":0.355
    },
    "601166.SH":{
@@ -31,7 +31,7 @@
       "name":"mei di ji tuan",
       "buypoint":47.5,
       "sellpoint":69.6,
-      "hold_state":0,
+      "hold_state":1,
       "guxi":1.1451
    },
    "601628.SH":{
