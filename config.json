@@ -15,8 +15,8 @@
    },
    "601939.SH":{
       "name":"jian she yin hang",
-      "buypoint":5.74,
-      "sellpoint":6.8,
+      "buypoint":5.84,
+      "sellpoint":6.27,
       "hold_state":1,
       "guxi":0.355
    },
@@ -29,15 +29,15 @@
    },
    "000333.SZ":{
       "name":"mei di ji tuan",
-      "buypoint":47.5,
-      "sellpoint":69.6,
+      "buypoint":54.28,
+      "sellpoint":61.20,
       "hold_state":1,
       "guxi":1.1451
    },
    "601628.SH":{
       "name":"zhong guo ren shou",
-      "buypoint":33,
-      "sellpoint":38.5,
+      "buypoint":31.24,
+      "sellpoint":39.28,
       "hold_state":1,
       "guxi":0.6328
    },
@@ -71,7 +71,7 @@
    },
    "600036.SH":{
       "name":"zhao shang yin hang",
-      "buypoint":32.2,
+      "buypoint":31.26,
       "sellpoint":36.9,
       "hold_state":1,
       "guxi":1.54
