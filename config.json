@@ -1,79 +1,107 @@
 {
-   "601328.SH":{
-      "name":"jiao tong yin hang",
-      "buypoint":5.28,
-      "sellpoint":5.78,
-      "hold_state":0,
-      "guxi":0.3317
-   },
-   "600597.SH":{
-      "name":"guang ming ru ye",
-      "buypoint":10.23,
-      "sellpoint":11.1,
-      "hold_state":0,
-      "guxi":0.355
-   },
-   "601939.SH":{
-      "name":"jian she yin hang",
-      "buypoint":5.84,
-      "sellpoint":6.27,
-      "hold_state":1,
-      "guxi":0.355
-   },
-   "601166.SH":{
-      "name":"xing ye yin hang",
-      "buypoint":14,
-      "sellpoint":17,
-      "hold_state":0,
-      "guxi":1.2089
-   },
-   "000333.SZ":{
-      "name":"mei di ji tuan",
-      "buypoint":54.28,
-      "sellpoint":61.20,
-      "hold_state":1,
-      "guxi":1.1451
-   },
-   "601628.SH":{
-      "name":"zhong guo ren shou",
-      "buypoint":31.24,
-      "sellpoint":39.28,
-      "hold_state":1,
-      "guxi":0.6328
-   },
-   "601872.SH":{
-      "name":"zhao shang lun chuan",
-      "buypoint":5.41,
-      "sellpoint":7.12,
-      "hold_state":0,
-      "guxi":0.1377
-   },
-   "601318.SH":{
-      "name":"zhong guo ping an",
-      "buypoint":47.18,
-      "sellpoint":52.5,
-      "hold_state":0,
-      "guxi":2.1061
-   },
-   "600030.SH":{
-      "name":"zhong xin zheng quan",
-      "buypoint":20.8,
-      "sellpoint":22.11,
-      "hold_state":0,
-      "guxi":0.3655
-   },
-   "601988.SH":{
-      "name":"zhong guo yin hang",
-      "buypoint":3.2,
-      "sellpoint":4.12,
-      "hold_state":0,
-      "guxi":0.1959
-   },
-   "600036.SH":{
-      "name":"zhao shang yin hang",
-      "buypoint":31.26,
-      "sellpoint":36.9,
-      "hold_state":1,
-      "guxi":1.54
-   }
+	"601328.SH": {
+		"name": "jiao tong yin hang",
+		"buypoint": 5.28,
+		"sellpoint": 5.78,
+		"hold_state": 0,
+		"guxi": 0.3317
+	},
+	"600597.SH": {
+		"name": "guang ming ru ye",
+		"buypoint": 10.23,
+		"sellpoint": 11.1,
+		"hold_state": 0,
+		"guxi": 0.355
+	},
+	"601939.SH": {
+		"name": "jian she yin hang",
+		"buypoint": 5.84,
+		"sellpoint": 6.27,
+		"hold_state": 1,
+		"guxi": 0.355
+	},
+	"601166.SH": {
+		"name": "xing ye yin hang",
+		"buypoint": 14,
+		"sellpoint": 17,
+		"hold_state": 0,
+		"guxi": 1.2089
+	},
+	"000333.SZ": {
+		"name": "mei di ji tuan",
+		"buypoint": 58.59,
+		"sellpoint": 68.20,
+		"hold_state": 1,
+		"guxi": 1.1451
+	},
+	"601628.SH": {
+		"name": "zhong guo ren shou",
+		"buypoint": 25,
+		"sellpoint": 33.39,
+		"hold_state": 1,
+		"guxi": 0.6328
+	},
+	"601872.SH": {
+		"name": "zhao shang lun chuan",
+		"buypoint": 6.69,
+		"sellpoint": 13.9,
+		"hold_state": 0,
+		"guxi": 0.1377
+	},
+	"601318.SH": {
+		"name": "zhong guo ping an",
+		"buypoint": 73.48,
+		"sellpoint": 80.54,
+		"hold_state": 0,
+		"guxi": 2.1061
+	},
+	"600030.SH": {
+		"name": "zhong xin zheng quan",
+		"buypoint": 20.8,
+		"sellpoint": 22.11,
+		"hold_state": 0,
+		"guxi": 0.3655
+	},
+	"601988.SH": {
+		"name": "zhong guo yin hang",
+		"buypoint": 3.2,
+		"sellpoint": 4.12,
+		"hold_state": 0,
+		"guxi": 0.1959
+	},
+	"600036.SH": {
+		"name": "zhao shang yin hang",
+		"buypoint": 31.26,
+		"sellpoint": 36.9,
+		"hold_state": 1,
+		"guxi": 1.54
+	},
+	"601975.SH": {
+		"name": "zhao shang nan you",
+		"buypoint": 2.77,
+		"sellpoint": 4.27,
+		"hold_state": 0,
+		"guxi": 0.17
+	},
+	"601012.SH": {
+		"name": "long ji lv neng",
+		"buypoint": 18.08,
+		"sellpoint": 24.33,
+		"hold_state": 0,
+		"guxi": 0.48
+	},
+	"000906.SZ": {
+		"name": "zhe shang zhong tuo",
+		"buypoint": 15.12,
+		"sellpoint": 18.00,
+		"hold_state": 0,
+		"guxi": 0.5
+	},
+	"002332.SZ": {
+		"name": "xian ju zhi yao",
+		"buypoint": 9.85,
+		"sellpoint": 13.9,
+		"hold_state": 0,
+		"guxi": 0.31
+	}
 }
