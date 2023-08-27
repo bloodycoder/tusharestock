@@ -613,3 +613,1176 @@ hold state:1
 600036.SH should be buy
 600036.SH rate:-0.328 buypoint:34.4 sellpoint: 36.9
 -------------------------
+zhong guo ren shou
+hold state:0
+601628.SH rate:0.172 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH should be buy
+601872.SH rate:-0.064 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be buy
+601318.SH rate:-0.235 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-1.153 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.673 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.716 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH rate:0.356 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.262 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.145 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.397 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.808 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.356 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH rate:0.246 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.248 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.023 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.573 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.779 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.728 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH rate:0.154 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.298 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.006 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.511 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.769 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.836 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH rate:0.046 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.262 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be buy
+601318.SH rate:-0.107 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.519 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.779 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.780 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH rate:0.038 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.270 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.004 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.427 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.817 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.676 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH should be buy
+601628.SH rate:-0.004 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.340 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.021 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.550 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.817 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.480 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be buy
+601628.SH rate:-0.062 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.518 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.271 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.252 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.875 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-1.020 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be buy
+601628.SH rate:-0.002 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.546 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.274 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.229 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.875 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.988 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be buy
+601628.SH rate:-0.238 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH rate:0.496 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.164 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-0.397 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.663 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-1.100 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhao shang yin hang
+hold state:1
+601628.SH should be buy
+601628.SH rate:-4.800 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang yin hang
+hold state:1
+601872.SH should be sell
+601872.SH rate:3.043 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhao shang yin hang
+hold state:0
+601318.SH should be buy
+601318.SH rate:-6.989 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhao shang yin hang
+hold state:1
+600030.SH should be buy
+600030.SH rate:-8.244 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhao shang yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:6.654 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-9.760 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be buy
+601628.SH rate:-4.800 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH should be sell
+601872.SH rate:3.043 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be buy
+601318.SH rate:-6.989 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-8.244 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:6.654 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-9.760 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:6.654 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be buy
+601318.SH rate:-6.989 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH should be sell
+601872.SH rate:3.043 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be buy
+601628.SH rate:-4.800 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be buy
+600030.SH rate:-8.244 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-9.760 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.530 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:87.423 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.400 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH should be sell
+601872.SH rate:20.064 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be sell
+600036.SH rate:20.240 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be sell
+600030.SH rate:59.695 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhao shang lun chuan
+hold state:1
+601872.SH should be sell
+601872.SH rate:47.723 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong xin zheng quan
+hold state:1
+600030.SH should be sell
+600030.SH rate:17.710 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be sell
+600036.SH rate:15.440 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be sell
+601628.SH rate:8.000 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:9.929 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be buy
+601988.SH rate:-2.000 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-10.560 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:51.298 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH should be sell
+601872.SH rate:46.305 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ren shou
+hold state:0
+601628.SH should be buy
+601628.SH rate:-4.800 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be buy
+601318.SH rate:-1.914 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be buy
+601988.SH rate:-1.038 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be sell
+600036.SH rate:17.440 buypoint:34.4 sellpoint: 36.9
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be sell
+601628.SH rate:7.600 buypoint:34.0 sellpoint: 39.0
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:24.580 buypoint:20.8 sellpoint: 22.11
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:19.154 buypoint:3.08 sellpoint: 4.12
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH should be sell
+601872.SH rate:18.645 buypoint:5.71 sellpoint: 7.12
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:4.477 buypoint:47.18 sellpoint: 52.5
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be buy
+600036.SH rate:-13.360 buypoint:34.4 sellpoint: 36.9
+guxi rate:64.935-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be sell
+601628.SH rate:12.600 buypoint:34.0 sellpoint: 39.0
+guxi rate:15328.698-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:75.885 buypoint:3.08 sellpoint: 4.12
+guxi rate:41858.091-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH should be sell
+601872.SH rate:33.539 buypoint:5.71 sellpoint: 7.12
+guxi rate:38489.470-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:11.603 buypoint:20.8 sellpoint: 22.11
+guxi rate:9849.521-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:6.733 buypoint:47.18 sellpoint: 52.5
+guxi rate:3940.933-------------------------
+xing ye yin hang
+hold state:0
+601166.SH should be sell
+601166.SH rate:3.818 buypoint:14.0 sellpoint: 25.0
+guxi rate:4632.310-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ should be buy
+000333.SZ rate:-1.137 buypoint:47.5 sellpoint: 79.6
+guxi rate:960.615-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be sell
+600036.SH rate:8.640 buypoint:34.4 sellpoint: 36.9
+guxi rate:3636.364
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be sell
+601628.SH rate:4.000 buypoint:34.0 sellpoint: 39.0
+guxi rate:8533.502
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:48.000 buypoint:3.08 sellpoint: 4.12
+guxi rate:27054.620
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH should be sell
+601872.SH rate:43.468 buypoint:5.71 sellpoint: 7.12
+guxi rate:48656.500
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:32.214 buypoint:20.8 sellpoint: 22.11
+guxi rate:17236.662
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:3.726 buypoint:47.18 sellpoint: 52.5
+guxi rate:3181.235
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH should be sell
+601166.SH rate:3.273 buypoint:14.0 sellpoint: 25.0
+guxi rate:4135.991
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.670 buypoint:47.5 sellpoint: 79.6
+guxi rate:6025.675
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH rate:0.464 buypoint:34.4 sellpoint: 36.9
+guxi rate:2309.091
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.534 buypoint:34.0 sellpoint: 39.0
+guxi rate:5794.880
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:2.519 buypoint:20.8 sellpoint: 22.11
+guxi rate:6593.707
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:1.019 buypoint:47.18 sellpoint: 52.5
+guxi rate:2497.507
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.798 buypoint:3.08 sellpoint: 4.12
+guxi rate:1995.916
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH rate:0.242 buypoint:14.0 sellpoint: 25.0
+guxi rate:1378.112
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.368 buypoint:47.5 sellpoint: 79.6
+guxi rate:5180.334
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH rate:0.482 buypoint:5.71 sellpoint: 7.12
+guxi rate:4640.523
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH rate:0.464 buypoint:34.4 sellpoint: 36.9
+guxi rate:4.331
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.534 buypoint:34.0 sellpoint: 39.0
+guxi rate:1.726
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:2.519 buypoint:20.8 sellpoint: 22.11
+guxi rate:1.517
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:1.019 buypoint:47.18 sellpoint: 52.5
+guxi rate:4.004
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.798 buypoint:3.08 sellpoint: 4.12
+guxi rate:5.010
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH rate:0.242 buypoint:14.0 sellpoint: 25.0
+guxi rate:7.256
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.368 buypoint:47.5 sellpoint: 79.6
+guxi rate:1.930
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH rate:0.482 buypoint:5.71 sellpoint: 7.12
+guxi rate:2.155
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.649 buypoint:33.0 sellpoint: 38.5
+guxi rate:1.730
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH rate:0.389 buypoint:32.2 sellpoint: 36.9
+guxi rate:4.525
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:2.328 buypoint:20.8 sellpoint: 22.11
+guxi rate:1.532
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.795 buypoint:47.18 sellpoint: 52.5
+guxi rate:4.097
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH rate:0.787 buypoint:14.0 sellpoint: 17.0
+guxi rate:7.389
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.674 buypoint:3.2 sellpoint: 4.12
+guxi rate:5.128
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH rate:0.585 buypoint:5.41 sellpoint: 7.12
+guxi rate:2.148
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.489 buypoint:47.5 sellpoint: 69.6
+guxi rate:1.964
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.909 buypoint:33.0 sellpoint: 38.5
+guxi rate:1.665
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH rate:0.528 buypoint:32.2 sellpoint: 36.9
+guxi rate:4.441
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:2.771 buypoint:20.8 sellpoint: 22.11
+guxi rate:1.496
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.983 buypoint:47.18 sellpoint: 52.5
+guxi rate:4.019
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH rate:0.837 buypoint:14.0 sellpoint: 17.0
+guxi rate:7.322
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.728 buypoint:3.2 sellpoint: 4.12
+guxi rate:5.062
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH rate:0.550 buypoint:5.41 sellpoint: 7.12
+guxi rate:2.169
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.474 buypoint:47.5 sellpoint: 69.6
+guxi rate:1.975
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.905 buypoint:33.0 sellpoint: 38.5
+guxi rate:1.666
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH rate:0.570 buypoint:32.2 sellpoint: 36.9
+guxi rate:4.415
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:2.977 buypoint:20.8 sellpoint: 22.11
+guxi rate:1.480
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.887 buypoint:47.18 sellpoint: 52.5
+guxi rate:4.058
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH rate:0.853 buypoint:14.0 sellpoint: 17.0
+guxi rate:7.300
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.750 buypoint:3.2 sellpoint: 4.12
+guxi rate:5.036
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH rate:0.544 buypoint:5.41 sellpoint: 7.12
+guxi rate:2.172
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.471 buypoint:47.5 sellpoint: 69.6
+guxi rate:1.977
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH rate:0.758 buypoint:33.0 sellpoint: 38.5
+guxi rate:1.702
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH rate:0.489 buypoint:32.2 sellpoint: 36.9
+guxi rate:4.464
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:3.031 buypoint:20.8 sellpoint: 22.11
+guxi rate:1.476
+-------------------------
+guang ming ru ye
+hold state:0
+600597.SH rate:0.862 buypoint:10.23 sellpoint: 11.1
+guxi rate:3.233
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH rate:0.850 buypoint:47.18 sellpoint: 52.5
+guxi rate:4.074
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH rate:0.833 buypoint:14.0 sellpoint: 17.0
+guxi rate:7.327
+-------------------------
+jian she yin hang
+hold state:0
+601939.SH rate:0.236 buypoint:5.74 sellpoint: 6.8
+guxi rate:5.927
+-------------------------
+jiao tong yin hang
+hold state:0
+601328.SH rate:0.740 buypoint:5.28 sellpoint: 5.78
+guxi rate:5.871
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH rate:0.717 buypoint:3.2 sellpoint: 4.12
+guxi rate:5.075
+-------------------------
+mei di ji tuan
+hold state:0
+000333.SZ rate:0.470 buypoint:47.5 sellpoint: 69.6
+guxi rate:1.978
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH rate:0.515 buypoint:5.41 sellpoint: 7.12
+guxi rate:2.189
+-------------------------
+jian she yin hang
+hold state:1
+601939.SH should be sell
+601939.SH rate:2325567.814 buypoint:5.84 sellpoint: 6.27
+guxi rate:0.000
+-------------------------
+jiao tong yin hang
+hold state:0
+601328.SH should be sell
+601328.SH rate:1999989.440 buypoint:5.28 sellpoint: 5.78
+guxi rate:0.000
+-------------------------
+guang ming ru ye
+hold state:0
+600597.SH should be sell
+600597.SH rate:1149413.529 buypoint:10.23 sellpoint: 11.1
+guxi rate:0.000
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:1086953.043 buypoint:3.2 sellpoint: 4.12
+guxi rate:0.000
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:763342.901 buypoint:20.8 sellpoint: 22.11
+guxi rate:0.000
+-------------------------
+zhao shang nan you
+hold state:0
+601975.SH should be sell
+601975.SH rate:666664.820 buypoint:2.77 sellpoint: 4.27
+guxi rate:0.000
+-------------------------
+zhe shang zhong tuo
+hold state:0
+000906.SZ should be sell
+000906.SZ rate:347216.972 buypoint:15.12 sellpoint: 18.0
+guxi rate:0.000
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH should be sell
+601166.SH rate:333328.667 buypoint:14.0 sellpoint: 17.0
+guxi rate:0.000
+-------------------------
+xian ju zhi yao
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:246911.148 buypoint:9.85 sellpoint: 13.9
+guxi rate:0.000
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be sell
+600036.SH rate:177299.422 buypoint:31.26 sellpoint: 36.9
+guxi rate:0.000
+-------------------------
+long ji lv neng
+hold state:0
+601012.SH should be sell
+601012.SH rate:159997.107 buypoint:18.08 sellpoint: 24.33
+guxi rate:0.000
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:141632.652 buypoint:73.48 sellpoint: 80.54
+guxi rate:0.000
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH should be sell
+601872.SH rate:138695.327 buypoint:6.69 sellpoint: 13.9
+guxi rate:0.000
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be sell
+601628.SH rate:119186.532 buypoint:25.0 sellpoint: 33.39
+guxi rate:0.000
+-------------------------
+mei di ji tuan
+hold state:1
+000333.SZ should be sell
+000333.SZ rate:104052.176 buypoint:58.59 sellpoint: 68.2
+guxi rate:0.000
+-------------------------
+jian she yin hang
+hold state:1
+601939.SH should be sell
+601939.SH rate:2325567.814 buypoint:5.84 sellpoint: 6.27
+guxi rate:0.000
+-------------------------
+交通银行
+hold state:0
+601328.SH should be sell
+601328.SH rate:1999989.440 buypoint:5.28 sellpoint: 5.78
+guxi rate:0.000
+-------------------------
+guang ming ru ye
+hold state:0
+600597.SH should be sell
+600597.SH rate:1149413.529 buypoint:10.23 sellpoint: 11.1
+guxi rate:0.000
+-------------------------
+zhong guo yin hang
+hold state:0
+601988.SH should be sell
+601988.SH rate:1086953.043 buypoint:3.2 sellpoint: 4.12
+guxi rate:0.000
+-------------------------
+zhong xin zheng quan
+hold state:0
+600030.SH should be sell
+600030.SH rate:763342.901 buypoint:20.8 sellpoint: 22.11
+guxi rate:0.000
+-------------------------
+zhao shang nan you
+hold state:0
+601975.SH should be sell
+601975.SH rate:666664.820 buypoint:2.77 sellpoint: 4.27
+guxi rate:0.000
+-------------------------
+zhe shang zhong tuo
+hold state:0
+000906.SZ should be sell
+000906.SZ rate:347216.972 buypoint:15.12 sellpoint: 18.0
+guxi rate:0.000
+-------------------------
+xing ye yin hang
+hold state:0
+601166.SH should be sell
+601166.SH rate:333328.667 buypoint:14.0 sellpoint: 17.0
+guxi rate:0.000
+-------------------------
+xian ju zhi yao
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:246911.148 buypoint:9.85 sellpoint: 13.9
+guxi rate:0.000
+-------------------------
+zhao shang yin hang
+hold state:1
+600036.SH should be sell
+600036.SH rate:177299.422 buypoint:31.26 sellpoint: 36.9
+guxi rate:0.000
+-------------------------
+long ji lv neng
+hold state:0
+601012.SH should be sell
+601012.SH rate:159997.107 buypoint:18.08 sellpoint: 24.33
+guxi rate:0.000
+-------------------------
+zhong guo ping an
+hold state:0
+601318.SH should be sell
+601318.SH rate:141632.652 buypoint:73.48 sellpoint: 80.54
+guxi rate:0.000
+-------------------------
+zhao shang lun chuan
+hold state:0
+601872.SH should be sell
+601872.SH rate:138695.327 buypoint:6.69 sellpoint: 13.9
+guxi rate:0.000
+-------------------------
+zhong guo ren shou
+hold state:1
+601628.SH should be sell
+601628.SH rate:119186.532 buypoint:25.0 sellpoint: 33.39
+guxi rate:0.000
+-------------------------
+mei di ji tuan
+hold state:1
+000333.SZ should be sell
+000333.SZ rate:104052.176 buypoint:58.59 sellpoint: 68.2
+guxi rate:0.000
+-------------------------
+建设银行
+hold state:1
+601939.SH should be sell
+601939.SH rate:284034.697 buypoint:18.005501800000005 sellpoint: 21.526135031232013
+guxi rate:0.000
+-------------------------
+交通银行
+hold state:0
+601328.SH should be sell
+601328.SH rate:539117.518 buypoint:17.256113194252094 sellpoint: 19.110964336953163
+guxi rate:0.000
+-------------------------
+光明乳业
+hold state:0
+600597.SH should be sell
+600597.SH rate:641873.782 buypoint:8.000363878270768 sellpoint: 9.55829010594653
+guxi rate:0.000
+-------------------------
+中国银行
+hold state:0
+601988.SH should be sell
+601988.SH rate:1945559.824 buypoint:11.001161277535005 sellpoint: 11.515146500000004
+guxi rate:0.000
+-------------------------
+中信证券
+hold state:0
+600030.SH should be sell
+600030.SH rate:239707.504 buypoint:20.086939418624002 sellpoint: 24.25860654796801
+guxi rate:0.000
+-------------------------
+浙商中拓
+hold state:0
+000906.SZ should be sell
+000906.SZ rate:244967.274 buypoint:14.504384178111998 sellpoint: 18.586502895615997
+guxi rate:0.000
+-------------------------
+兴业银行
+hold state:0
+601166.SH should be sell
+601166.SH rate:96545.968 buypoint:52.96967390000002 sellpoint: 63.326885615136035
+guxi rate:0.000
+-------------------------
+仙居制药
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:469186.744 buypoint:9.368668975331948 sellpoint: 11.499996522169688
+guxi rate:0.000
+-------------------------
+招商银行
+hold state:1
+600036.SH should be sell
+600036.SH rate:68458.987 buypoint:59.84912356147203 sellpoint: 74.45553529237198
+guxi rate:0.000
+-------------------------
+隆基绿能
+hold state:0
+601012.SH should be sell
+601012.SH rate:80584.621 buypoint:13.866491100000005 sellpoint: 26.275634765625
+guxi rate:0.000
+-------------------------
+中国平安
+hold state:0
+601318.SH should be sell
+601318.SH rate:19621.874 buypoint:73.48109712076803 sellpoint: 124.44088319999996
+guxi rate:0.000
+-------------------------
+招商轮船
+hold state:0
+601872.SH should be sell
+601872.SH rate:357111.854 buypoint:5.567018402816001 sellpoint: 8.367245899999997
+guxi rate:0.000
+-------------------------
+中国人寿
+hold state:1
+601628.SH should be sell
+601628.SH rate:113474.940 buypoint:18.95453185500014 sellpoint: 27.766883272497765
+guxi rate:0.000
+-------------------------
+美的集团
+hold state:1
+000333.SZ should be sell
+000333.SZ rate:58424.812 buypoint:51.73614734663198 sellpoint: 68.851277607168
+guxi rate:0.000
+-------------------------
+建设银行
+hold state:1
+601939.SH should be sell
+601939.SH rate:284034.697 buypoint:18.006 sellpoint: 21.526
+guxi rate:0.000
+-------------------------
+交通银行
+hold state:0
+601328.SH should be sell
+601328.SH rate:539117.518 buypoint:17.256 sellpoint: 19.111
+guxi rate:0.000
+-------------------------
+光明乳业
+hold state:0
+600597.SH should be sell
+600597.SH rate:641873.782 buypoint:8.000 sellpoint: 9.558
+guxi rate:0.000
+-------------------------
+中国银行
+hold state:0
+601988.SH should be sell
+601988.SH rate:1945559.824 buypoint:11.001 sellpoint: 11.515
+guxi rate:0.000
+-------------------------
+中信证券
+hold state:0
+600030.SH should be sell
+600030.SH rate:239707.504 buypoint:20.087 sellpoint: 24.259
+guxi rate:0.000
+-------------------------
+浙商中拓
+hold state:0
+000906.SZ should be sell
+000906.SZ rate:244967.274 buypoint:14.504 sellpoint: 18.587
+guxi rate:0.000
+-------------------------
+兴业银行
+hold state:0
+601166.SH should be sell
+601166.SH rate:96545.968 buypoint:52.970 sellpoint: 63.327
+guxi rate:0.000
+-------------------------
+仙居制药
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:469186.744 buypoint:9.369 sellpoint: 11.500
+guxi rate:0.000
+-------------------------
+招商银行
+hold state:1
+600036.SH should be sell
+600036.SH rate:68458.987 buypoint:59.849 sellpoint: 74.456
+guxi rate:0.000
+-------------------------
+隆基绿能
+hold state:0
+601012.SH should be sell
+601012.SH rate:80584.621 buypoint:13.866 sellpoint: 26.276
+guxi rate:0.000
+-------------------------
+中国平安
+hold state:0
+601318.SH should be sell
+601318.SH rate:19621.874 buypoint:73.481 sellpoint: 124.441
+guxi rate:0.000
+-------------------------
+招商轮船
+hold state:0
+601872.SH should be sell
+601872.SH rate:357111.854 buypoint:5.567 sellpoint: 8.367
+guxi rate:0.000
+-------------------------
+中国人寿
+hold state:1
+601628.SH should be sell
+601628.SH rate:113474.940 buypoint:18.955 sellpoint: 27.767
+guxi rate:0.000
+-------------------------
+美的集团
+hold state:1
+000333.SZ should be sell
+000333.SZ rate:58424.812 buypoint:51.736 sellpoint: 68.851
+guxi rate:0.000
+-------------------------
