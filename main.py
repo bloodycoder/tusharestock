@@ -5,7 +5,7 @@ import datetime
 import load
 from mail import *
 # 设置tushare的token，需要先在tushare官网注册并获取
-#load.initconfig()
+load.initconfig()
 ftoken = open("token", "r")
 token = ftoken.readline().strip()
 ts.set_token(token)
