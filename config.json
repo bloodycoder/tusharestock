@@ -7,7 +7,8 @@
       "guxi":0.3317,
       "jingzichan":11.69,
       "roe_low":8.1,
-      "roe_high":10.33
+      "roe_high":10.33,
+      "youzhi_rate":0
    },
    "600597.SH":{
       "name":"光明乳业",
@@ -17,7 +18,8 @@
       "guxi":0.355,
       "jingzichan":5.90,
       "roe_low":6.28,
-      "roe_high":10.13
+      "roe_high":10.13,
+      "youzhi_rate":0
    },
    "601939.SH":{
       "name":"建设银行",
@@ -27,7 +29,8 @@
       "guxi":0.355,
       "jingzichan":11.18,
       "roe_low":10,
-      "roe_high":14
+      "roe_high":14,
+      "youzhi_rate":0
    },
    "601166.SH":{
       "name":"兴业银行",
@@ -37,7 +40,8 @@
       "guxi":1.2089,
       "jingzichan":32.89,
       "roe_low":10,
-      "roe_high":14
+      "roe_high":14,
+      "youzhi_rate":0
    },
    "000333.SZ":{
       "name":"美的集团",
@@ -47,7 +51,8 @@
       "guxi":1.1451,
       "jingzichan":21.68,
       "roe_low":19,
-      "roe_high":26
+      "roe_high":26,
+      "youzhi_rate":0.9
    },
    "601628.SH":{
       "name":"中国人寿",
@@ -56,8 +61,9 @@
       "hold_state":1,
       "guxi":0.6328,
       "jingzichan":15.89,
-      "roe_low":3.59,
-      "roe_high":11.81
+      "roe_low":10,
+      "roe_high":16.47,
+      "youzhi_rate":0.9
    },
    "601872.SH":{
       "name":"招商轮船",
@@ -67,7 +73,8 @@
       "guxi":0.1377,
       "jingzichan":4.16,
       "roe_low":6,
-      "roe_high":15
+      "roe_high":15,
+      "youzhi_rate":0.9
    },
    "601318.SH":{
       "name":"中国平安",
@@ -77,7 +84,8 @@
       "guxi":2.1061,
       "jingzichan":50.01,
       "roe_low":8,
-      "roe_high":20
+      "roe_high":20,
+      "youzhi_rate":0.5
    },
    "600030.SH":{
       "name":"中信证券",
@@ -87,7 +95,8 @@
       "guxi":0.3655,
       "jingzichan":16.51,
       "roe_low":4,
-      "roe_high":8
+      "roe_high":8,
+      "youzhi_rate":0.8
    },
    "601988.SH":{
       "name":"中国银行",
@@ -97,7 +106,8 @@
       "guxi":0.1959,
       "jingzichan":7.15,
       "roe_low":9,
-      "roe_high":10
+      "roe_high":10,
+      "youzhi_rate":0.5
    },
    "600036.SH":{
       "name":"招商银行",
@@ -107,7 +117,8 @@
       "guxi":1.54,
       "jingzichan":33.96,
       "roe_low":12,
-      "roe_high":17
+      "roe_high":17,
+      "youzhi_rate":0.3
    },
    "601012.SH":{
       "name":"隆基绿能",
@@ -116,8 +127,9 @@
       "hold_state":0,
       "guxi":0.48,
       "jingzichan":8.61,
-      "roe_low":10,
-      "roe_high":25
+      "roe_low":20,
+      "roe_high":25,
+      "youzhi_rate":1
    },
    "000906.SZ":{
       "name":"浙商中拓",
@@ -127,7 +139,8 @@
       "guxi":0.5,
       "jingzichan":6.34,
       "roe_low":18,
-      "roe_high":24
+      "roe_high":24,
+      "youzhi_rate":0.7
    },
    "002332.SZ":{
       "name":"仙居制药",
@@ -137,6 +150,7 @@
       "guxi":0.31,
       "jingzichan":5.59,
       "roe_low":10.88,
-      "roe_high":15.52
+      "roe_high":15.52,
+      "youzhi_rate":1
    }
 }
