@@ -1786,3 +1786,324 @@ hold state:1
 000333.SZ rate:58424.812 buypoint:51.736 sellpoint: 68.851
 guxi rate:0.000
 -------------------------
+中国人寿
+hold state:1
+601628.SH should be sell
+601628.SH rate:1.896 buypoint:18.955 sellpoint: 27.767
+guxi rate:1.775
+-------------------------
+美的集团
+hold state:1
+000333.SZ rate:0.258 buypoint:51.736 sellpoint: 68.851
+guxi rate:2.039
+-------------------------
+招商银行
+hold state:1
+600036.SH should be buy
+600036.SH rate:-1.889 buypoint:59.849 sellpoint: 74.456
+guxi rate:4.774
+-------------------------
+建设银行
+hold state:1
+601939.SH should be buy
+601939.SH rate:-3.370 buypoint:18.006 sellpoint: 21.526
+guxi rate:5.782
+-------------------------
+中国平安
+hold state:0
+601318.SH should be buy
+601318.SH rate:-0.498 buypoint:73.481 sellpoint: 124.441
+guxi rate:4.378
+-------------------------
+浙商中拓
+hold state:0
+000906.SZ should be buy
+000906.SZ rate:-1.549 buypoint:14.504 sellpoint: 18.587
+guxi rate:6.112
+-------------------------
+中信证券
+hold state:0
+600030.SH rate:0.888 buypoint:20.087 sellpoint: 24.259
+guxi rate:1.536
+-------------------------
+隆基绿能
+hold state:0
+601012.SH should be sell
+601012.SH rate:1.016 buypoint:13.866 sellpoint: 26.276
+guxi rate:1.813
+-------------------------
+招商轮船
+hold state:0
+601872.SH rate:0.219 buypoint:5.567 sellpoint: 8.367
+guxi rate:2.228
+-------------------------
+光明乳业
+hold state:0
+600597.SH should be sell
+600597.SH rate:1.515 buypoint:8.000 sellpoint: 9.558
+guxi rate:3.427
+-------------------------
+仙居制药
+hold state:0
+002332.SZ rate:0.672 buypoint:9.369 sellpoint: 11.500
+guxi rate:2.870
+-------------------------
+兴业银行
+hold state:0
+601166.SH should be buy
+601166.SH rate:-3.550 buypoint:52.970 sellpoint: 63.327
+guxi rate:7.462
+-------------------------
+交通银行
+hold state:0
+601328.SH should be buy
+601328.SH rate:-6.268 buypoint:17.256 sellpoint: 19.111
+guxi rate:5.892
+-------------------------
+中国银行
+hold state:0
+601988.SH should be buy
+601988.SH rate:-13.933 buypoint:11.001 sellpoint: 11.515
+guxi rate:5.102
+-------------------------
+美的集团
+hold state:1
+000333.SZ rate:0.379 buypoint:49.568 sellpoint: 66.683
+guxi rate:2.043
+-------------------------
+中国人寿
+hold state:1
+601628.SH should be sell
+601628.SH rate:2.248 buypoint:15.777 sellpoint: 24.589
+guxi rate:1.778
+-------------------------
+招商银行
+hold state:1
+600036.SH rate:0.421 buypoint:25.889 sellpoint: 40.496
+guxi rate:4.806
+-------------------------
+建设银行
+hold state:1
+601939.SH should be buy
+601939.SH rate:-0.226 buypoint:6.826 sellpoint: 10.346
+guxi rate:5.887
+-------------------------
+中国平安
+hold state:0
+601318.SH rate:0.002 buypoint:48.476 sellpoint: 99.436
+guxi rate:4.337
+-------------------------
+浙商中拓
+hold state:0
+000906.SZ should be buy
+000906.SZ rate:-1.207 buypoint:13.236 sellpoint: 17.319
+guxi rate:6.017
+-------------------------
+中信证券
+hold state:0
+600030.SH should be sell
+600030.SH rate:2.372 buypoint:13.483 sellpoint: 17.655
+guxi rate:1.563
+-------------------------
+隆基绿能
+hold state:0
+601012.SH should be sell
+601012.SH rate:1.066 buypoint:13.866 sellpoint: 26.276
+guxi rate:1.771
+-------------------------
+招商轮船
+hold state:0
+601872.SH rate:0.382 buypoint:5.151 sellpoint: 7.951
+guxi rate:2.214
+-------------------------
+光明乳业
+hold state:0
+600597.SH should be sell
+600597.SH rate:5.372 buypoint:2.100 sellpoint: 3.658
+guxi rate:3.391
+-------------------------
+兴业银行
+hold state:0
+601166.SH should be buy
+601166.SH rate:-0.394 buypoint:20.080 sellpoint: 30.437
+guxi rate:7.556
+-------------------------
+中国银行
+hold state:0
+601988.SH should be buy
+601988.SH rate:-7.055 buypoint:7.426 sellpoint: 7.940
+guxi rate:5.155
+-------------------------
+仙居制药
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:1.084 buypoint:9.369 sellpoint: 11.500
+guxi rate:2.654
+-------------------------
+交通银行
+hold state:0
+601328.SH should be buy
+601328.SH rate:-0.009 buypoint:5.566 sellpoint: 7.421
+guxi rate:5.977
+-------------------------
+美的集团
+hold state:1
+000333.SZ rate:0.379 buypoint:49.568 sellpoint: 66.683
+guxi rate:2.043
+-------------------------
+中国人寿
+hold state:1
+601628.SH should be sell
+601628.SH rate:3.007 buypoint:19.109 sellpoint: 24.589
+guxi rate:1.778
+-------------------------
+招商银行
+hold state:1
+600036.SH rate:0.421 buypoint:25.889 sellpoint: 40.496
+guxi rate:4.806
+-------------------------
+建设银行
+hold state:1
+601939.SH should be buy
+601939.SH rate:-0.226 buypoint:6.826 sellpoint: 10.346
+guxi rate:5.887
+-------------------------
+中国平安
+hold state:0
+601318.SH rate:0.002 buypoint:48.476 sellpoint: 99.436
+guxi rate:4.337
+-------------------------
+浙商中拓
+hold state:0
+000906.SZ should be buy
+000906.SZ rate:-1.052 buypoint:12.602 sellpoint: 16.685
+guxi rate:6.017
+-------------------------
+中信证券
+hold state:0
+600030.SH should be sell
+600030.SH rate:1.581 buypoint:16.785 sellpoint: 20.957
+guxi rate:1.563
+-------------------------
+隆基绿能
+hold state:0
+601012.SH should be sell
+601012.SH rate:1.525 buypoint:19.702 sellpoint: 24.554
+guxi rate:1.771
+-------------------------
+招商轮船
+hold state:0
+601872.SH rate:0.382 buypoint:5.151 sellpoint: 7.951
+guxi rate:2.214
+-------------------------
+光明乳业
+hold state:0
+600597.SH should be sell
+600597.SH rate:5.372 buypoint:2.100 sellpoint: 3.658
+guxi rate:3.391
+-------------------------
+兴业银行
+hold state:0
+601166.SH should be buy
+601166.SH rate:-0.394 buypoint:20.080 sellpoint: 30.437
+guxi rate:7.556
+-------------------------
+中国银行
+hold state:0
+601988.SH should be buy
+601988.SH rate:-7.055 buypoint:7.426 sellpoint: 7.940
+guxi rate:5.155
+-------------------------
+仙居制药
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:1.084 buypoint:9.369 sellpoint: 11.500
+guxi rate:2.654
+-------------------------
+交通银行
+hold state:0
+601328.SH should be buy
+601328.SH rate:-0.009 buypoint:5.566 sellpoint: 7.421
+guxi rate:5.977
+-------------------------
+美的集团
+hold state:1
+000333.SZ rate:0.379 buypoint:49.568 sellpoint: 66.683
+guxi rate:2.043
+-------------------------
+中国人寿
+hold state:1
+601628.SH should be sell
+601628.SH rate:1.369 buypoint:24.002 sellpoint: 32.467
+guxi rate:1.778
+-------------------------
+招商银行
+hold state:1
+600036.SH should be buy
+600036.SH rate:-0.276 buypoint:36.077 sellpoint: 50.684
+guxi rate:4.806
+-------------------------
+建设银行
+hold state:1
+601939.SH should be buy
+601939.SH rate:-0.226 buypoint:6.826 sellpoint: 10.346
+guxi rate:5.887
+-------------------------
+中国平安
+hold state:0
+601318.SH rate:0.002 buypoint:48.476 sellpoint: 99.436
+guxi rate:4.337
+-------------------------
+浙商中拓
+hold state:0
+000906.SZ should be buy
+000906.SZ rate:-1.052 buypoint:12.602 sellpoint: 16.685
+guxi rate:6.017
+-------------------------
+中信证券
+hold state:0
+600030.SH should be sell
+600030.SH rate:1.581 buypoint:16.785 sellpoint: 20.957
+guxi rate:1.563
+-------------------------
+隆基绿能
+hold state:0
+601012.SH should be sell
+601012.SH rate:1.170 buypoint:21.424 sellpoint: 26.276
+guxi rate:1.771
+-------------------------
+招商轮船
+hold state:0
+601872.SH rate:0.382 buypoint:5.151 sellpoint: 7.951
+guxi rate:2.214
+-------------------------
+光明乳业
+hold state:0
+600597.SH should be sell
+600597.SH rate:5.372 buypoint:2.100 sellpoint: 3.658
+guxi rate:3.391
+-------------------------
+兴业银行
+hold state:0
+601166.SH should be buy
+601166.SH rate:-0.394 buypoint:20.080 sellpoint: 30.437
+guxi rate:7.556
+-------------------------
+中国银行
+hold state:0
+601988.SH should be buy
+601988.SH rate:-7.055 buypoint:7.426 sellpoint: 7.940
+guxi rate:5.155
+-------------------------
+仙居制药
+hold state:0
+002332.SZ should be sell
+002332.SZ rate:1.084 buypoint:9.369 sellpoint: 11.500
+guxi rate:2.654
+-------------------------
+交通银行
+hold state:0
+601328.SH should be buy
+601328.SH rate:-0.009 buypoint:5.566 sellpoint: 7.421
+guxi rate:5.977
+-------------------------
