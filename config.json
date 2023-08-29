@@ -61,9 +61,9 @@
       "hold_state":1,
       "guxi":0.6328,
       "jingzichan":15.89,
-      "roe_low":3.59,
-      "roe_high":11.81,
-      "youzhi_rate":0.8
+      "roe_low":10,
+      "roe_high":16.47,
+      "youzhi_rate":0.9
    },
    "601872.SH":{
       "name":"招商轮船",
@@ -96,7 +96,7 @@
       "jingzichan":16.51,
       "roe_low":4,
       "roe_high":8,
-      "youzhi_rate":0.6
+      "youzhi_rate":0.8
    },
    "601988.SH":{
       "name":"中国银行",
@@ -118,7 +118,7 @@
       "jingzichan":33.96,
       "roe_low":12,
       "roe_high":17,
-      "youzhi_rate":0
+      "youzhi_rate":0.3
    },
    "601012.SH":{
       "name":"隆基绿能",
@@ -127,7 +127,7 @@
       "hold_state":0,
       "guxi":0.48,
       "jingzichan":8.61,
-      "roe_low":10,
+      "roe_low":20,
       "roe_high":25,
       "youzhi_rate":1
    },
@@ -140,7 +140,7 @@
       "jingzichan":6.34,
       "roe_low":18,
       "roe_high":24,
-      "youzhi_rate":0.8
+      "youzhi_rate":0.7
    },
    "002332.SZ":{
       "name":"仙居制药",
