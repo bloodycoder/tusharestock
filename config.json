@@ -12,14 +12,14 @@
    },
    "600597.SH":{
       "name":"光明乳业",
-      "buypoint":10.23,
-      "sellpoint":11.1,
+      "buypoint":9.558,
+      "sellpoint":11.59,
       "hold_state":0,
       "guxi":0.355,
       "jingzichan":5.90,
       "roe_low":6.28,
       "roe_high":10.13,
-      "youzhi_rate":0
+      "youzhi_rate":1
    },
    "601939.SH":{
       "name":"建设银行",
@@ -32,32 +32,21 @@
       "roe_high":14,
       "youzhi_rate":0
    },
-   "601166.SH":{
-      "name":"兴业银行",
-      "buypoint":14,
-      "sellpoint":17,
-      "hold_state":0,
-      "guxi":1.2089,
-      "jingzichan":32.89,
-      "roe_low":10,
-      "roe_high":14,
-      "youzhi_rate":0
-   },
    "000333.SZ":{
       "name":"美的集团",
-      "buypoint":58.59,
-      "sellpoint":68.20,
+      "buypoint":50.0,
+      "sellpoint":66.6,
       "hold_state":1,
       "guxi":1.1451,
-      "jingzichan":21.68,
-      "roe_low":19,
+      "jingzichan":20.84,
+      "roe_low":22,
       "roe_high":26,
       "youzhi_rate":0.9
    },
    "601628.SH":{
       "name":"中国人寿",
-      "buypoint":25,
-      "sellpoint":33.39,
+      "buypoint":32.0,
+      "sellpoint":38.07,
       "hold_state":1,
       "guxi":0.6328,
       "jingzichan":15.89,
@@ -67,8 +56,8 @@
    },
    "601872.SH":{
       "name":"招商轮船",
-      "buypoint":6.69,
-      "sellpoint":13.9,
+      "buypoint":5.15,
+      "sellpoint":6.2,
       "hold_state":0,
       "guxi":0.1377,
       "jingzichan":4.16,
@@ -78,8 +67,8 @@
    },
    "601318.SH":{
       "name":"中国平安",
-      "buypoint":73.48,
-      "sellpoint":80.54,
+      "buypoint":48.47,
+      "sellpoint":54.355,
       "hold_state":0,
       "guxi":2.1061,
       "jingzichan":50.01,
@@ -122,8 +111,8 @@
    },
    "601012.SH":{
       "name":"隆基绿能",
-      "buypoint":18.08,
-      "sellpoint":24.33,
+      "buypoint":21.42,
+      "sellpoint":26.27,
       "hold_state":0,
       "guxi":0.48,
       "jingzichan":8.61,
@@ -133,8 +122,8 @@
    },
    "000906.SZ":{
       "name":"浙商中拓",
-      "buypoint":15.12,
-      "sellpoint":18.00,
+      "buypoint":8.00,
+      "sellpoint":11.00,
       "hold_state":0,
       "guxi":0.5,
       "jingzichan":6.34,
