@@ -141,5 +141,16 @@
       "roe_low":10.88,
       "roe_high":15.52,
       "youzhi_rate":1
+   },
+   "600398.SH":{
+      "name":"海澜之家",
+      "buypoint":8,
+      "sellpoint":9.4,
+      "hold_state":1,
+      "guxi":0.3887,
+      "jingzichan":3.215,
+      "roe_low":20,
+      "roe_high":24,
+      "youzhi_rate":1
    }
 }
