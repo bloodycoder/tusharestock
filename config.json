@@ -34,8 +34,8 @@
    },
    "000333.SZ":{
       "name":"美的集团",
-      "buypoint":50.0,
-      "sellpoint":66.6,
+      "buypoint":54.0,
+      "sellpoint":64.5,
       "hold_state":1,
       "guxi":2.50,
       "jingzichan":20.84,
@@ -111,8 +111,8 @@
    },
    "601012.SH":{
       "name":"隆基绿能",
-      "buypoint":21.42,
-      "sellpoint":26.27,
+      "buypoint":25,
+      "sellpoint":31,
       "hold_state":0,
       "guxi":0.4,
       "jingzichan":8.61,
@@ -151,6 +151,17 @@
       "jingzichan":3.215,
       "roe_low":20,
       "roe_high":24,
+      "youzhi_rate":1
+   },
+   "600887.SH":{
+      "name":"伊利股份",
+      "buypoint":25,
+      "sellpoint":32,
+      "hold_state":1,
+      "guxi":1.04,
+      "jingzichan":7.76,
+      "roe_low":20,
+      "roe_high":25,
       "youzhi_rate":1
    }
 }
