@@ -109,17 +109,6 @@
       "roe_high":17,
       "youzhi_rate":0.3
    },
-   "601012.SH":{
-      "name":"隆基绿能",
-      "buypoint":25,
-      "sellpoint":31,
-      "hold_state":0,
-      "guxi":0.4,
-      "jingzichan":8.61,
-      "roe_low":20,
-      "roe_high":25,
-      "youzhi_rate":1
-   },
    "000906.SZ":{
       "name":"浙商中拓",
       "buypoint":8.00,
@@ -158,7 +147,7 @@
       "buypoint":25,
       "sellpoint":32,
       "hold_state":1,
-      "guxi":1.04,
+      "guxi":1.2,
       "jingzichan":7.76,
       "roe_low":20,
       "roe_high":25,
